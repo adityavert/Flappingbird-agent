@@ -204,7 +204,7 @@ Ctrl + C
 
 After training, the DQN agent learned a functional policy for navigating through the pipes.
 
-During evaluation, the trained model achieved rewards including:
+During evaluation, the trained agent consistently achieved positive rewards, with observed episode rewards reaching approximately 21 during testing.
 
 ```text
 Episode 3  → 12.9
