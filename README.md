@@ -150,8 +150,8 @@ Keeping these values separate from the Python code makes it easier to experiment
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/flappy-bird-dqn.git
-cd flappy-bird-dqn
+[https://github.com/adityavert/Flappybird-agent.git]
+cd Flappybird-agent
 ```
 
 Install the required dependencies:
