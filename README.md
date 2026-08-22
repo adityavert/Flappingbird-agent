@@ -38,7 +38,7 @@ The project was built to explore how Reinforcement Learning can be applied to a 
 ```text
 flappy_bird/
 │
-├── flappy_bird.py
+├── game_flappy_bird.py
 ├── agent.py
 ├── dqn.py
 ├── experience_replay.py
@@ -50,7 +50,7 @@ flappy_bird/
 
 | File                   | Description                            |
 | ---------------------- | -------------------------------------- |
-| `flappy_bird.py`       | Normal playable Flappy Bird game       |
+| `game_flappy_bird.py`       | Normal playable Flappy Bird game       |
 | `agent.py`             | Main DQN training and evaluation logic |
 | `dqn.py`               | Defines the Deep Q-Network             |
 | `experience_replay.py` | Implements experience replay memory    |
@@ -64,7 +64,7 @@ The project includes a normal playable version of Flappy Bird.
 Run the game using:
 
 ```bash
-python flappy_bird.py
+python game_flappy_bird.py
 ```
 
 The player controls the bird and attempts to navigate through the pipes while achieving the highest possible score.
