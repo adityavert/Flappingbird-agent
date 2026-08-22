@@ -150,7 +150,7 @@ Keeping these values separate from the Python code makes it easier to experiment
 Clone the repository:
 
 ```bash
-[https://github.com/adityavert/Flappybird-agent.git]
+https://github.com/adityavert/Flappybird-agent.git
 cd Flappybird-agent
 ```
 
